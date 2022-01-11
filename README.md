@@ -1,7 +1,7 @@
 ## Oiii eu sou O Christian Mainarti, programador em C#, Python e Java!
 <div align="center">
   <a href="https://github.com/ChristianMainarti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianmainarti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianmainarti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianmainarti&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
