@@ -1,4 +1,8 @@
-## Oiii eu sou O Christian Mainarti, programador em C#, Python e Java!
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+Wake up Sunshine ! </h1> <hr>
+
+My name is Christian M. Dias. I work as a C# Developer at Saga Tech.
 <div align="center">
   <a href="https://github.com/ChristianMainarti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianmainarti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,7 +16,7 @@
   <img align="center" alt="Mainarti-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 
 
-  <img align="right" alt="Mainarti-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Mainarti-pic" height="150" style="border-radius:50px;" src=" ">
 </div>
   
   ##
