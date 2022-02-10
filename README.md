@@ -22,16 +22,16 @@ My name is Christian M. Dias. I work as a C# Developer at Saga Tech.
   ## Tecnologias que eu uso com frequência
  
 <div> 
-  <a href="https://www.instagram.com/tiomainarti" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wXVJ4Bvqfg" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/TioMainarti" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href = "mailto:christian.dias@sagatechbrasil.com.br"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/tiomainarti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wXVJ4Bvqfg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/TioMainarti" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href = "mailto:christian.dias@sagatechbrasil.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 <a href="https://github.com/ChristianMainarti/ModbusTCP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christianmainarti&repo=ModbusTCP&theme=tokyonight&show_owner" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=christianmainarti&repo=ModbusTCP&theme=tokyonight&show_owner" />
 </a>
 <a href="https://github.com/ChristianMainarti/Sats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christianmainarti&repo=Sats&theme=tokyonight&show_owne" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=christianmainarti&repo=Sats&theme=tokyonight&show_owne" />
 </a>
 
  
