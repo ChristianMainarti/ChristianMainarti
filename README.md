@@ -9,8 +9,6 @@ My name is Christian M. Dias. I work as a C# Developer at Saga Tech.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianmainarti&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-Tecnologias que eu uso com frequência
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Mainarti-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mainarti-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
