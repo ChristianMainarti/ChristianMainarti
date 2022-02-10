@@ -3,7 +3,7 @@
 Wake up Sunshine ! </h1> <hr>
 
 My name is Christian M. Dias. I work as a C# Developer at Saga Tech.
-<div align="left">
+<div align="center">
   <a href="https://github.com/ChristianMainarti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianmainarti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianmainarti&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -29,7 +29,9 @@ My name is Christian M. Dias. I work as a C# Developer at Saga Tech.
   
   [![ModbusTCP](https://github-readme-stats.vercel.app/api/pin/?username=christianmainarti&repo=ModbusTCP&theme=tokyonight&show_owner)](https://github.com/ChristianMainarti/ModbusTCP)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christianmainarti&repo=Sats&theme=tokyonight&show_owner)](https://github.com/ChristianMainarti/Sats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
  
   ![Snake animation](https://github.com/ChristianMainarti/ChristianMainarti/blob/output/github-contribution-grid-snake.svg)
