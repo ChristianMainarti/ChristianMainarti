@@ -19,7 +19,7 @@ My name is Christian M. Dias. I work as a C# Developer at Saga Tech.
   <img align="right" alt="Mainarti-pic" height="150" style="border-radius:50px;" src="https://www.google.com/search?q=steven+universe+gif&client=opera&hs=Qxf&sxsrf=AOaemvKJBNafJLgLij9qzYGoEC3fV3ujGg:1641908696541&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiImvHE6qn1AhVRH7kGHTNHC0cQ_AUoAXoECAIQAw&biw=1880&bih=977&dpr=1#imgrc=U90q7bJpbNqmgM ">
 </div>
    
-  #Tecnologias que eu uso com frequência
+  <h1>Tecnologias que eu uso com frequência<h1>
   
 <div> 
   <a href="https://www.instagram.com/tiomainarti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
