@@ -27,7 +27,7 @@ My name is Christian M. Dias. I work as a C# Developer at Saga Tech.
   <a href="https://twitter.com/TioMainarti" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href = "mailto:christian.dias@sagatechbrasil.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-  (https://github-readme-stats.vercel.app/api/pin/?username=christianmainarti&repo=ModbusTCP)](https://github.com/ChristianMainarti/ModbusTCP)
+  ![ModbusRepoCard](https://github-readme-stats.vercel.app/api/pin/?username=christianmainarti&repo=ModbusTCP)](https://github.com/ChristianMainarti/ModbusTCP)
   (https://github-readme-stats.vercel.app/api/pin/?username=christianmainarti&repo=ModbusTCP)](https://github.com/ChristianMainarti/ModbusTCP)
 
 
