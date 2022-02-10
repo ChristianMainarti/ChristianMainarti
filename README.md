@@ -3,7 +3,7 @@
 Wake up Sunshine ! </h1> <hr>
 
 My name is Christian M. Dias. I work as a C# Developer at Saga Tech.
-<div align="center">
+<div align="left">
   <a href="https://github.com/ChristianMainarti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianmainarti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianmainarti&layout=compact&langs_count=7&theme=tokyonight"/>
