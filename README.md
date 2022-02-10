@@ -28,8 +28,6 @@ My name is Christian M. Dias. I work as a C# Developer at Saga Tech.
 </a>
    <div/>
    
-## Tecnologias que eu uso com frequência
-   
 <div> 
   <a href="https://www.instagram.com/tiomainarti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wXVJ4Bvqfg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
