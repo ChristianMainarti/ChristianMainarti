@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 Wake up Sunshine ! </h1> <hr>
 
-My name is Christian M. Dias. I work as a C# Developer at Saga Tech.
+My name is Christian M. Dias. I work as a DevOpsJr at Saga Tech.
 <div align="center">
   <a href="https://github.com/ChristianMainarti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianmainarti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
